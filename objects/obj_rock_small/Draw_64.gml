@@ -1,0 +1,1 @@
+draw_healthbar(x - 25, y + 30, x + 25,y + 40, small_rock_health, c_black, c_red, c_lime, 0, true, true);
